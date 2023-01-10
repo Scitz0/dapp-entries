@@ -1,6 +1,5 @@
 {
-  id:           'myprojectid'
-  label:        'My Project',
+  label:        'My Project (staging)',
   caption:      'My awesome project.',
   description:  'A longer description of my project',
   url:          'https://foo.bar/en/',
