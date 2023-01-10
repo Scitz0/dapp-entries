@@ -1,7 +1,7 @@
 {
-  label:        'My Project (staging)',
-  caption:      'My awesome project.',
-  description:  'A longer description of my project',
-  url:          'https://foo.bar/en/',
-  image:        'https://foo.bar/en/images/myprojectid.jpg'
+  "label":       "My Project (staging)",
+  "caption":     "My awesome project.",
+  "description": "A longer description of my project",
+  "url":         "https://foo.bar/en/",
+  "image":       "https://foo.bar/en/images/myprojectid.jpg"
 }
