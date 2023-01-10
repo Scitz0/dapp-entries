@@ -1,5 +1,4 @@
 {
-  id:           'myprojectid'
   label:        'My Project',
   caption:      'My awesome project.',
   description:  'A longer description of my project',
