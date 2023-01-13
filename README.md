@@ -7,7 +7,7 @@ Each project will be given access to their own branch to push entries to.
     /                             # Top-Level Folder
     ├── mainnet                   # Network (mainnet|preview|preprod|guild|shareslake)
     │   ├── production            # Folder containing production entries
-    │   │   ├── exampleApp1.json  # DApp entry in JSON format according to [DApp Entry](#dapp-entry)
+    │   │   ├── exampleApp1.json  # DApp entry in JSON format according to DApp Entry structure.
     │   │   ├── ...               # Additional dApps
     │   └── staging               # Folder containing production entries
     │       ├── ...               # If no DApp entry exist corresponding to production entry, the production entry will be used for staging as well.
