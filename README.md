@@ -9,7 +9,7 @@ Each project will be given access to their own branch to push entries to.
     │   ├── production            # Folder containing production entries
     │   │   ├── exampleApp1.json  # DApp entry in JSON format according to DApp Entry structure.
     │   │   ├── ...               # Additional dApps
-    │   └── staging               # Folder containing production entries
+    │   └── staging               # Folder containing staging entries
     │       ├── ...               # If no DApp entry exist corresponding to production entry, the production entry will be used for staging as well.
     ├── ...                       # Additional networks
 
