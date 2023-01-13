@@ -16,11 +16,11 @@ Each project will be given access to their own branch to push entries to.
 ## DApp Entry
 ```json
 {
-  "label":        string  // max 48 chars
-  "caption":      string  // max 280 chars
-  "description":  string  // max 512 chars
-  "url":          string  // URL for dApp to be used in Eternl dApp browser
-  "image":        string  // externally hosted (max 500kb, preferably < 200kb)
+  "label":        "string  // max 48 chars"
+  "caption":      "string  // max 280 chars"
+  "description":  "string  // max 512 chars"
+  "url":          "string  // URL for dApp to be used in Eternl dApp browser"
+  "image":        "string  // externally hosted (max 500kb, preferably < 200kb). See dimensions below for optimal image."
 }
 ```
 ![DApp example image](https://github.com/Scitz0/dapp-entries/blob/main/example/dapp_image.png)
